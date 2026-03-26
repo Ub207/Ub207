@@ -1,148 +1,196 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:2c5364,100:6c63ff&text=Ubaid%20Ur%20Rahman&fontSize=60&fontAlignY=35&desc=AI%20Automation%20Engineer%20%E2%80%A2%20Building%20Digital%20Employees&descAlignY=55&descSize=18&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0f2027,50:203a43,100:6c63ff&text=UBAID%20UR%20RAHMAN&fontSize=55&fontAlignY=38&desc=AI%20Automation%20Engineer%20%7C%20Building%20the%20Future%20of%20Work&descAlignY=58&descSize=17&animation=fadeIn&fontColor=ffffff&stroke=6c63ff&strokeWidth=1" width="100%"/>
 </div>
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=I+build+AI+Employees+that+work+24%2F7+%F0%9F%A4%96;10%2B+MCP+Server+Integrations+%E2%9A%A1;Email+%7C+WhatsApp+%7C+LinkedIn+%7C+Odoo+%7C+Slack;Saving+Solo+Founders+12%2B+Hours+Every+Week;Available+for+Freelance+AI+Automation+Projects+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%A4%96+I+build+AI+Employees+that+replace+10%2B+hrs%2Fweek+of+manual+work;%E2%9A%A1+10+MCP+Servers+%7C+5+Social+Platforms+%7C+Odoo+ERP+%7C+24%2F7+Cloud;%F0%9F%92%BC+Available+for+Freelance+%E2%80%94+Let's+automate+your+business)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
-  <a href="mailto:usmanubaidurrehman@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-Available_for_Freelance-brightgreen?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Projects-15+-blue?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=Ub207&label=Profile+Views&color=6c63ff&style=for-the-badge" />
+  <a href="mailto:usmanubaidurrehman@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%92%BC_HIRE_ME-Available_for_Projects-6c63ff?style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/Focus-AI_Automation-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clients_Saved-12%2B_hrs%2Fweek-brightgreen?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Ub207&label=Visitors&color=6c63ff&style=for-the-badge" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ubaidurrehman-usman-2bbb59245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:usmanubaidurrehman@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Ub207"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ---
 
-## About Me
+<h2 align="center">What I Do</h2>
 
-<img align="right" alt="AI Automation" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-I'm **Ubaid Ur Rahman** — an **AI Automation Engineer** who builds **Digital Employees** that replace 10+ hours/week of manual business operations.
+### The Problem
+Solo founders spend **10-15 hours/week** on:
+- Reading & replying to emails
+- Posting on 5 social platforms
+- Creating invoices & chasing payments
+- Updating dashboards & spreadsheets
+- Coordinating across tools
 
-**What I do differently:** I don't just build chatbots. I build **autonomous AI systems** that monitor emails, draft replies, post on social media, create invoices, and generate CEO briefings — all with human-in-the-loop safety.
+**That's 600+ hours/year on autopilot tasks.**
 
-- Building **Personal AI Employee** — a 4-tier autonomous agent system (Bronze > Silver > Gold > Platinum)
-- **10 MCP Server integrations**: Gmail, LinkedIn, Twitter, Facebook, Instagram, WhatsApp, Odoo ERP, Slack, Calendar, Browser
-- **Cloud + Local architecture**: Oracle Cloud VM runs 24/7, local machine handles approvals
-- Currently saving clients **12+ hours/week** through intelligent automation
+</td>
+<td width="50%" valign="top">
 
-<br clear="right"/>
+### My Solution
+I build **AI Employees** -- autonomous systems that:
+- Monitor emails & draft replies 24/7
+- Post on LinkedIn, Twitter, FB, IG automatically
+- Create invoices & follow up in Odoo ERP
+- Generate weekly CEO briefings
+- Run on cloud VMs even when you sleep
+
+**All with human-in-the-loop safety.**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## What I Build: The AI Employee System
+<h2 align="center">Flagship Project: Personal AI Employee</h2>
 
 <div align="center">
 
 ```
-          PLATINUM TIER — The Complete AI Employee
-    ┌──────────────────────────────────────────────────┐
-    │          Oracle Cloud VM (24/7)                   │
-    │   Cloud Orchestrator + Auto-drafting + Git Sync   │
-    ├──────────────────────────────────────────────────┤
-    │              GOLD TIER                            │
-    │   Twitter + Facebook + Instagram + Slack          │
-    │   Odoo ERP (13 tools) + Calendar + CEO Briefings  │
-    ├──────────────────────────────────────────────────┤
-    │              SILVER TIER                          │
-    │   Gmail OAuth + LinkedIn + WhatsApp + Obsidian    │
-    ├──────────────────────────────────────────────────┤
-    │              BRONZE TIER                          │
-    │   Core Agent Loop + File Processing + Planning    │
-    └──────────────────────────────────────────────────┘
++==============================================================+
+|                    PLATINUM TIER (24/7)                       |
+|         Oracle Cloud VM + Git Sync + Dual-Agent              |
++==============================================================+
+|                      GOLD TIER                               |
+|    Twitter + Facebook + Instagram + Slack + Odoo ERP         |
+|              Calendar + CEO Briefings                        |
++==============================================================+
+|                     SILVER TIER                              |
+|       Gmail OAuth + LinkedIn + WhatsApp + Obsidian           |
++==============================================================+
+|                     BRONZE TIER                              |
+|          Core Agent Loop + Planning Engine                   |
++==============================================================+
 ```
 
 </div>
 
-| Capability | What It Does | Status |
-|-----------|-------------|--------|
-| **Email Automation** | Monitor inbox, draft replies, send with approval | Production |
-| **Social Media (5 platforms)** | LinkedIn, Twitter, Facebook, Instagram — auto-draft & post | Production |
-| **WhatsApp Monitoring** | Detect messages, draft responses, route for approval | Production |
-| **Odoo ERP** | Invoices, payments, vendor bills, follow-ups (13 tools) | Production |
-| **CEO Briefing** | Auto-generated weekly business report | Production |
-| **Calendar Management** | Events, free slots, scheduling | Production |
-| **Slack Integration** | Messages, channels, file uploads | Production |
-| **Cloud Agent (24/7)** | Oracle VM runs autonomously even when laptop is off | Production |
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| MCP Servers | **10** (Email, LinkedIn, Twitter, FB/IG, Slack, Odoo, Calendar, Browser, Filesystem, Vault-Sync) |
+| Platforms Automated | **8** (Gmail, WhatsApp, LinkedIn, Twitter, Facebook, Instagram, Slack, Odoo) |
+| Time Saved | **12+ hours/week** per client |
+| System Uptime | **24/7** (Oracle Cloud VM) |
+| Safety | **Human-in-the-loop** -- nothing sends without approval |
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/Ub207/personal-ai-employee">
+    <img src="https://img.shields.io/badge/View_Full_Project-personal--ai--employee-6c63ff?style=for-the-badge&logo=github" />
+  </a>
+</div>
 
 ---
 
-## Tech Stack
+<h2 align="center">Tech Arsenal</h2>
 
 <div align="center">
 
-### AI & Agents
-![Claude AI](https://img.shields.io/badge/Claude_AI_(Opus_4)-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Servers_(10)-2C5364?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDEgMTJsMTEgMTAgMTEtMTBMMTIgMnoiLz48L3N2Zz4=&logoColor=white)
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### Infrastructure & DevOps
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Integrations
-![Gmail](https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn_API-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack_API-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo_ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+<table>
+<tr>
+<td align="center" width="20%"><strong>AI & Agents</strong></td>
+<td align="center" width="20%"><strong>Languages</strong></td>
+<td align="center" width="20%"><strong>Infrastructure</strong></td>
+<td align="center" width="20%"><strong>Integrations</strong></td>
+<td align="center" width="20%"><strong>Tools</strong></td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Claude_AI-FF6B35?style=flat-square&logo=anthropic&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/MCP_Protocol-2C5364?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br/>
+<img src="https://img.shields.io/badge/systemd-333?style=flat-square" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## Featured Projects
+<h2 align="center">Featured Repositories</h2>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">AI Employee — Full System</h3>
-        <div align="center">
-          <a href="https://github.com/Ub207/personal-ai-employee">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ub207&repo=personal-ai-employee&theme=tokyonight&hide_border=true" />
-          </a>
-          <p><strong>4-tier autonomous AI system</strong><br/>10 MCP servers | Cloud + Local | Human-in-the-loop</p>
-        </div>
+        <a href="https://github.com/Ub207/personal-ai-employee">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ub207&repo=personal-ai-employee&theme=tokyonight&hide_border=true" width="100%" />
+        </a>
       </td>
       <td width="50%">
-        <h3 align="center">Gold Tier — Advanced Automation</h3>
-        <div align="center">
-          <a href="https://github.com/Ub207/gold-tier-ai-employee">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ub207&repo=gold-tier-ai-employee&theme=tokyonight&hide_border=true" />
-          </a>
-          <p><strong>Multi-platform social + ERP</strong><br/>Twitter, FB, IG, Slack, Odoo, Calendar</p>
-        </div>
+        <a href="https://github.com/Ub207/gold-tier-ai-employee">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ub207&repo=gold-tier-ai-employee&theme=tokyonight&hide_border=true" width="100%" />
+        </a>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">Silver Tier — Core Automation</h3>
-        <div align="center">
-          <a href="https://github.com/Ub207/silver-tier-ai-employee">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ub207&repo=silver-tier-ai-employee&theme=tokyonight&hide_border=true" />
-          </a>
-          <p><strong>Email + LinkedIn + WhatsApp</strong><br/>Obsidian vault GUI | Approval workflow</p>
-        </div>
+        <a href="https://github.com/Ub207/silver-tier-ai-employee">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ub207&repo=silver-tier-ai-employee&theme=tokyonight&hide_border=true" width="100%" />
+        </a>
       </td>
       <td width="50%">
-        <h3 align="center">Hackathon II — Spec-Driven App</h3>
-        <div align="center">
-          <a href="https://github.com/Ub207/hackathon-ii-todo">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ub207&repo=hackathon-ii-todo&theme=tokyonight&hide_border=true" />
-          </a>
-          <p><strong>AI reads specs & builds apps</strong><br/>Agent architecture | Self-validating</p>
-        </div>
+        <a href="https://github.com/Ub207/vault-sync">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ub207&repo=vault-sync&theme=tokyonight&hide_border=true" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/Ub207/hackathon-ii-todo">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ub207&repo=hackathon-ii-todo&theme=tokyonight&hide_border=true" width="100%" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/Ub207/ai-chat-bot">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ub207&repo=ai-chat-bot&theme=tokyonight&hide_border=true" width="100%" />
+        </a>
       </td>
     </tr>
   </table>
@@ -150,67 +198,71 @@ I'm **Ubaid Ur Rahman** — an **AI Automation Engineer** who builds **Digital E
 
 ---
 
-## GitHub Analytics
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ub207&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ub207&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ub207&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&ring_color=6c63ff&title_color=6c63ff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ub207&theme=tokyonight&hide_border=true&ring=6c63ff&fire=FF6B35&currStreakLabel=6c63ff" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ub207&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
----
-
-## GitHub Trophies
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ub207&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="98%"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ub207&layout=compact&theme=tokyonight&hide_border=true&title_color=6c63ff&langs_count=8" />
 </div>
 
 ---
 
-## Contribution Graph
+<h2 align="center">Trophies</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ub207&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="98%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ub207&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
 </div>
 
 ---
 
-## Services I Offer
+<h2 align="center">Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ub207&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&line=6c63ff&point=FF6B35" width="98%"/>
+</div>
+
+---
+
+<h2 align="center">Services</h2>
 
 <div align="center">
 
-| Service | Description | Starting At |
-|---------|------------|-------------|
-| **AI Employee Setup** | Complete autonomous business automation system | Custom Quote |
-| **Email Automation** | Gmail monitoring, auto-drafting, smart routing | $500 |
-| **Social Media Automation** | Multi-platform posting with approval workflow | $400 |
+| Service | What You Get | Investment |
+|---------|-------------|------------|
+| **Complete AI Employee** | Full 4-tier autonomous system (email, social, ERP, cloud 24/7) | Custom Quote |
+| **Email Automation** | Gmail monitoring + AI drafting + smart routing | $500 |
+| **Social Media Bot** | 5-platform auto-posting with approval workflow | $400 |
 | **ERP Integration** | Odoo invoicing, payments, accounting automation | $600 |
-| **MCP Server Development** | Custom Model Context Protocol integrations | $300/server |
-| **Cloud Agent Deployment** | 24/7 Oracle/AWS cloud agent setup | $400 |
+| **Custom MCP Server** | Build any Model Context Protocol integration | $300/server |
+| **Cloud Agent Setup** | 24/7 Oracle/AWS autonomous agent deployment | $400 |
+| **Consulting Session** | 1-hour AI automation strategy for your business | $100 |
 
 </div>
 
----
-
-## Let's Work Together
-
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-usmanubaidurrehman@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanubaidurrehman@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ubaidurrehman-usman-2bbb59245/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ub207)
-
-**Available for freelance AI automation projects.**
-**Let's automate your business operations.**
-
+  <br/>
+  <a href="mailto:usmanubaidurrehman@gmail.com">
+    <img src="https://img.shields.io/badge/GET_IN_TOUCH-usmanubaidurrehman%40gmail.com-6c63ff?style=for-the-badge" />
+  </a>
+  <br/><br/>
+  <em>"I don't just automate tasks. I build systems that think, act, and deliver -- so you can focus on growing your business."</em>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:2c5364,100:6c63ff"/>
+
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:6c63ff"/>
 </div>
