@@ -82,7 +82,7 @@ Full **Retrieval-Augmented Generation** chatbot — document chunked, embedded i
 
 `Python` `Streamlit` `LangChain` `Qdrant` `FAISS` `Groq API`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Ub207)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Ub207/quran-ai-chatbot)
 
 </td>
 <td width="50%" valign="top">
@@ -92,29 +92,29 @@ Full-featured **e-commerce platform** — product listings, cart, wishlist, **Sa
 
 `Next.js` `TypeScript` `Tailwind CSS` `Sanity CMS`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Ub207)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Ub207/marketplace-hakathone)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 Multi-Agent AI System
-**Multi-agent architecture** with tool use, agent handoffs between specialized sub-agents, and guardrails — based on OpenAI Agents SDK patterns.
+### 🤖 Personal AI Employee (4-Tier)
+**4-tier Digital FTE** replacing 10+ hrs/week of admin — Email, WhatsApp, LinkedIn, Twitter, Facebook, Odoo ERP, Slack, all automated with 10 MCP Servers and human-in-the-loop approval.
 
-`Python` `Agents SDK` `Tool Use` `LangChain`
+`Python` `Claude AI` `MCP Servers` `Agents SDK`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Ub207)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Ub207/personal-ai-employee)
 
 </td>
 <td width="50%" valign="top">
 
-### 📄 Resume Builder Suite
-Three-tier resume app: **Static** (HTML/CSS), **Dynamic** (JS data binding), and **Editable TypeScript** version with real-time customization and shareable links.
+### ✍️ Arabic Handwriting Checker
+**AI-powered Arabic handwriting recognition** — validates and scores handwritten Arabic script using computer vision. Essential for Quranic education and Arabic learning platforms.
 
-`TypeScript` `JavaScript` `HTML` `CSS`
+`Python` `Computer Vision` `Arabic NLP` `AI`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Ub207)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Ub207/arabic-handwriting-checker)
 
 </td>
 </tr>
@@ -159,11 +159,11 @@ This rare combination enables me to build:
 
 <div align="center">
 
-![Ubaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ub207&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&ring_color=6c63ff&title_color=6c63ff)
+![Ubaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ub207&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true&title_color=6c63ff&icon_color=6c63ff&text_color=333333&bg_color=ffffff&border_color=e8e8e8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ub207&theme=tokyonight&hide_border=true&ring=6c63ff&fire=FF6B35&currStreakLabel=6c63ff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ub207&theme=default&hide_border=false&ring=6c63ff&fire=FF6B35&currStreakLabel=6c63ff&background=ffffff&border=e8e8e8&stroke=e8e8e8&dates=555555)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ub207&layout=compact&theme=tokyonight&hide_border=true&title_color=6c63ff&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ub207&layout=compact&theme=default&hide_border=false&title_color=6c63ff&text_color=333333&bg_color=ffffff&border_color=e8e8e8&langs_count=8)
 
 </div>
 
@@ -173,7 +173,7 @@ This rare combination enables me to build:
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Ub207&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/Ub207)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Ub207&theme=flat&no-frame=false&no-bg=false&margin-w=10&column=7)](https://github.com/Ub207)
 
 </div>
 
@@ -181,7 +181,7 @@ This rare combination enables me to build:
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ub207&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&line=6c63ff&point=FF6B35)](https://github.com/Ub207)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ub207&theme=github-compact&hide_border=false&area=true&custom_title=Contribution%20Activity&line=6c63ff&point=FF6B35&color=333333&bg_color=ffffff)](https://github.com/Ub207)
 
 ---
 
