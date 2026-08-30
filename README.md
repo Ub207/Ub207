@@ -136,7 +136,7 @@ My domain expertise combined with software engineering allows me to build specia
 | 🏦 **Islamic Finance Apps** | Need Sharia knowledge + tech |
 | 🌍 **Urdu/Arabic NLP Pipelines** | Need multilingual + AI expertise |
 
-**No ordinary developer can build these. I can.**
+My domain expertise combined with software engineering allows me to build specialized AI systems for Islamic education, Arabic NLP, knowledge-based applications, and Islamic finance.
 
 ---
 
