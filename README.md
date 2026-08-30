@@ -126,7 +126,7 @@ Full-featured **e-commerce platform** — product listings, cart, wishlist, **Sa
 
 > I hold a **Master's in Islamiat** from Karachi University and am a **Hafiz, Qari, and Aalim** with expertise in Islamic Fiqh and Saba Qiraat.
 
-This rare combination enables me to build:
+My domain expertise combined with software engineering allows me to build specialized AI systems for Islamic education, Arabic NLP, knowledge-based applications, and Islamic finance.
 
 | What I Can Build | Why It's Rare |
 |---|---|
@@ -140,16 +140,15 @@ This rare combination enables me to build:
 
 ---
 
-## 💼 Services & Pricing
+## 💼 What I Build
 
-| Service | Description | Rate |
-|---|---|---|
-| 🤖 **AI Chatbot (RAG)** | Custom chatbot trained on your documents | From **$200** |
-| 🌐 **Next.js Website** | Modern, responsive business website | From **$150** |
-| ⚡ **AI Automation** | Email, social, workflow automation | From **$300** |
-| 🔧 **Custom MCP Server** | Model Context Protocol integration | **$300/server** |
-| 🕌 **Islamic AI Tool** | Quran apps, fatwa bots, Arabic NLP | **Custom Quote** |
-| 🧠 **AI Strategy Session** | 1-hour consultation | **$50** |
+- 🤖 **AI Knowledge Assistants** — RAG-powered assistants grounded in curated knowledge
+- 🌐 **Full-Stack Web Applications** — Modern applications with React, Next.js and TypeScript
+- ⚡ **AI Automation** — Practical AI-powered workflow and business automation
+- 🔧 **AI Agent Systems** — Tool-using agents and intelligent workflows
+- 🕌 **Islamic AI Applications** — Quran, Hadith, Fiqh and Arabic-focused AI systems
+
+I'm available for **Full-Stack Development, AI Engineering, AI Automation and freelance projects.**
 
 [![Get In Touch](https://img.shields.io/badge/GET_IN_TOUCH-usmanubaidurrehman@gmail.com-6c63ff?style=for-the-badge)](mailto:usmanubaidurrehman@gmail.com)
 
