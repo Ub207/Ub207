@@ -164,7 +164,7 @@ Autonomous agent managing 10+ MCP servers.
 - **Spec-Driven Todo CLI** — Agent that generates code from specifications
 - **Arabic Handwriting Recognition** — Computer vision for Arabic script
 
-**Full portfolio:** [ubaid-portfolio-website.vercel.app](https://ubaid-portfolio-website.vercel.app/)
+**Full portfolio:** [ubaid-personal-portfolio.vercel.app/](https://ubaid-personal-portfolio.vercel.app/)
 
 ---
 
