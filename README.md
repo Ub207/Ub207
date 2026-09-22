@@ -1,16 +1,27 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0f2027,50:203a43,100:6c63ff&text=UBAID%20UR%20RAHMAN&fontSize=55&fontAlign=50&desc=AI%20Automation%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Islamic%20Scholar&descAlignY=68&descSize=16&animation=fadeIn&fontColor=ffffff&stroke=6c63ff&strokeWidth=1)](https://ubaid-portfolio-v2-zbbe.vercel.app/)
+[![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0f2027,50:203a43,100:6c63ff&text=UBAID%20UR%20RAHMAN&fontSize=55&fontAlign=50&desc=Islamic%20AI%20Specialist%20%7C%20RAG%20Pipelines%20%7C%20Agentic%20AI&descAlignY=68&descSize=16&animation=fadeIn&fontColor=ffffff&stroke=6c63ff&strokeWidth=1)](https://ubaid-portfolio-website.vercel.app/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=🤖+Building+AI+Employees+that+work+24%2F7...;⚡+Next.js+%7C+Python+%7C+LangChain+%7C+RAG+Pipelines;🕌+Where+Islamic+Scholarship+meets+AI+Engineering;🚀+Available+for+Freelance+%26+Remote+Work)](https://ubaid-portfolio-v2-zbbe.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=🕌+Islamic+AI+Specialist;🤖+Building+Quran+Chatbots+%26+RAG+Systems;⚡+Python+%7C+LangChain+%7C+Next.js+%7C+MCP;🧠+15%2B+Years+Islamic+Scholarship+%2B+AI+Engineering)](https://ubaid-portfolio-website.vercel.app/)
 
 <br/>
 
-[![Hire Me](https://img.shields.io/badge/💼_HIRE_ME-Available_for_Projects-6c63ff?style=for-the-badge)](mailto:usmanubaidurrehman@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Live_Website-203a43?style=for-the-badge)](https://ubaid-portfolio-v2-zbbe.vercel.app/)
+[![Hire Me](https://img.shields.io/badge/💼_HIRE_ME-High_Ticket_Islamic_AI-6c63ff?style=for-the-badge)](mailto:usmanubaidurrehman@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Live_Website-203a43?style=for-the-badge)](https://ubaid-portfolio-website.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/💬_WHATSAPP-+92_317_0203221-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923170203221)
 
 </div>
+
+---
+
+## 🎯 Islamic AI Specialist
+
+Building production-grade AI for Islamic applications where 15+ years of Islamic scholarship meets AI engineering.
+
+### Core Projects
+- **Al-Mizan Academy RAG Chatbot** — Live Streamlit app with 18-course Quran curriculum
+- **Hadith Search Engine** — Semantic search over 35,975+ authenticated hadiths (with isnad grading)
+- **Islamic Fatwa Multi-Agent System** — Multi-agent chains for Hanafi Fiqh analysis with source citations
 
 ---
 
@@ -18,18 +29,46 @@
 
 ```python
 ubaid = {
-    "name"        : "Ubaid ur Rahman",
-    "location"    : "Karachi, Pakistan 🇵🇰",
-    "role"        : "AI Automation Engineer + Full Stack Developer",
-    "education"   : "M.A. Islamiat — Karachi University",
-    "also_am"     : ["Hafiz-e-Quran 📖", "Qari", "Aalim", "Saba Qiraat Expert"],
-    "languages"   : ["Arabic (read/write)", "Urdu (native)", "English (professional)"],
-    "superpower"  : "Building Islamic AI tools no ordinary developer can create",
-    "focus_2025"  : ["RAG Pipelines", "MCP Servers", "AI Agents", "Next.js Apps"],
-    "open_to"     : ["Freelance Projects", "Remote Jobs", "Collaborations"],
-    "fun_fact"    : "15+ years teaching experience → now teaching machines to think 🤖"
+    "name"           : "Ubaid ur Rahman",
+    "location"       : "Karachi, Pakistan 🇵🇰",
+    "role"           : "Islamic AI Specialist",
+    "education"      : "M.A. Islamiat — Karachi University",
+    "credentials"    : ["Hafiz-e-Quran 📖", "Qari with Ijazah", "Aalim", "15+ years teaching"],
+    "superpower"     : "Only one who is both Deep Islamic Scholar AND Production AI Engineer",
+    "languages"      : ["Arabic (read/write)", "Urdu (native)", "English (professional)", "Roman Urdu"],
+    "expertise"      : ["RAG Pipelines", "Multi-Agent Systems", "Islamic NLP", "MCP Servers", "Next.js", "Python"],
+    "open_to"        : ["High-ticket Islamic AI contracts", "Fintech projects", "Education platforms"],
+    "why_rare"       : "Most teams hire engineers + consult scholars. I am both. That changes what gets built."
 }
 ```
+
+---
+
+## 💼 Services & Pricing
+
+### **Tier 1: RAG Systems & AI Chatbots**
+**$2,500 per project** — 2 weeks delivery
+- Custom document ingestion & vector indexing
+- Production chatbot with source citations
+- Deploy to cloud (Streamlit/Vercel/API)
+- Example: Business doc Q&A, FAQ automation
+
+### **Tier 2: Islamic AI & Advanced Automation**
+**$5,000 - $8,000 per project** — 4 weeks delivery
+- Fiqh Q&A systems with scholarly source verification
+- Multi-agent workflows with MCP server integration
+- Production-grade deployment (Docker, cloud infrastructure)
+- Example: Hanafi jurisprudence chatbot, Islamic fintech AI, Quran semantic search
+
+### **Tier 3: Custom AI Platforms**
+**$15,000+ (custom scoping)** — 8+ weeks delivery
+- Full end-to-end Islamic AI platform
+- Multi-language support (Arabic, Urdu, English, Roman Urdu)
+- Custom model training & optimization
+- Example: Enterprise Islamic finance platform, large-scale education system
+
+### **Quick Consultation**
+**$50/hour** — 1-hour deep dive on Islamic AI architecture, RAG optimization, or system design
 
 ---
 
@@ -37,170 +76,144 @@ ubaid = {
 
 <div align="center">
 
-**🤖 AI & Agents**
+**🤖 AI & LLM Infrastructure**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-FF6B35?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-9966CC?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**⚛️ Frontend**
+**⚛️ Frontend & Full Stack**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-**🗄️ Databases & Vector Stores**
+**🗄️ Vector Databases & Data**
 
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-003D7A?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Sanity CMS](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 
-**⚙️ Tools & Platforms**
+**⚙️ Infrastructure & Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Why This Combination is Rare
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Problem | Why It's Hard | My Solution |
+|---------|---------------|------------|
+| **Hadith Chatbots** | Need isnad grading expertise + ML | I am the Islamic scholar |
+| **Fiqh Q&A Systems** | Need madhab (school of thought) authority | Master's in Islamiat + 15 yrs teaching |
+| **Quran Retrieval** | Requires semantic understanding of context | Hafiz-e-Quran + Qari with Ijazah |
+| **Arabic/Urdu NLP** | Needs native speaker + ML engineer | Both skills in one person |
+| **Roman Urdu Problems** | Embedding models fail on transliterated text | I've debugged this in production |
 
-### 🤖 AI Document Q&A Chatbot (RAG)
-Full **Retrieval-Augmented Generation** chatbot — document chunked, embedded into Qdrant vector DB, queried using **Llama 3.3 70B** via Groq API. Answers only from source document context.
-
-`Python` `Streamlit` `LangChain` `Qdrant` `FAISS` `Groq API`
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Ub207/quran-ai-chatbot)
-
-</td>
-<td width="50%" valign="top">
-
-### 👟 Nike Pakistan Marketplace
-Full-featured **e-commerce platform** — product listings, cart, wishlist, **Sanity CMS**, PKR pricing, Pakistani city delivery, and local payment methods.
-
-`Next.js` `TypeScript` `Tailwind CSS` `Sanity CMS`
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Ub207/marketplace-hakathone)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Personal AI Employee (4-Tier)
-**4-tier Digital FTE** replacing 10+ hrs/week of admin — Email, WhatsApp, LinkedIn, Twitter, Facebook, Odoo ERP, Slack, all automated with 10 MCP Servers and human-in-the-loop approval.
-
-`Python` `Claude AI` `MCP Servers` `Agents SDK`
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Ub207/personal-ai-employee)
-
-</td>
-<td width="50%" valign="top">
-
-### ✍️ Arabic Handwriting Checker
-**AI-powered Arabic handwriting recognition** — validates and scores handwritten Arabic script using computer vision. Essential for Quranic education and Arabic learning platforms.
-
-`Python` `Computer Vision` `Arabic NLP` `AI`
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Ub207/arabic-handwriting-checker)
-
-</td>
-</tr>
-</table>
+**Result:** No review loops, no "what does the scholar think?" — decisions happen at architecture time.
 
 ---
 
-## 🕌 Unique Niche: Islamic AI & Arabic NLP
+## 📊 Featured Work
 
-> I hold a **Master's in Islamiat** from Karachi University and am a **Hafiz, Qari, and Aalim** with expertise in Islamic Fiqh and Saba Qiraat.
+### **1. Al-Mizan Academy RAG Chatbot** (Live)
+Interactive Quran learning platform with semantic search.
+- **Tech:** Streamlit | LangChain | Qdrant | Groq API
+- **Capability:** 18-course curriculum, student Q&A, progress tracking
+- **Users:** International students (UK, US, Canada)
+- **Status:** Production ✅
 
-My domain expertise combined with software engineering allows me to build specialized AI systems for Islamic education, Arabic NLP, knowledge-based applications, and Islamic finance.
+### **2. Hadith Search Engine** (Beta)
+Semantic search over 35,975+ authenticated ahadith with grade awareness.
+- **Tech:** Python | FastAPI | Qdrant | Arabic NLP
+- **Features:** Isnad grading (Sahih/Hasan/Daif), source citations, Arabic/Urdu/English
+- **Data:** From Sunnah.com API, Sahih Bukhari, Muslim, etc.
+- **Status:** Open for feedback
 
-| What I Can Build | Why It's Rare |
-|---|---|
-| 🤖 **Islamic Fatwa Chatbots** | Need Arabic NLP + Fiqh knowledge |
-| 📖 **Quran / Hadith AI Tools** | Need deep Islamic scholarship |
-| 🎓 **Arabic EdTech Platforms** | Need native Arabic + dev skills |
-| 🏦 **Islamic Finance Apps** | Need Sharia knowledge + tech |
-| 🌍 **Urdu/Arabic NLP Pipelines** | Need multilingual + AI expertise |
+### **3. Islamic Fatwa Multi-Agent System** (In Development)
+Multi-agent RAG grounded in Hanafi Fiqh sources.
+- **Tech:** LangChain | MCP | OpenAI | Qdrant
+- **Agents:** Query analyzer → Fiqh retriever → Source verifier → Response generator
+- **Sources:** Quran, Hadith, Hanafi Fatawa, Darul Uloom rulings
+- **Status:** Architecture complete, deployment next
 
-My domain expertise combined with software engineering allows me to build specialized AI systems for Islamic education, Arabic NLP, knowledge-based applications, and Islamic finance.
-
----
-
-## 💼 What I Build
-
-- 🤖 **AI Knowledge Assistants** — RAG-powered assistants grounded in curated knowledge
-- 🌐 **Full-Stack Web Applications** — Modern applications with React, Next.js and TypeScript
-- ⚡ **AI Automation** — Practical AI-powered workflow and business automation
-- 🔧 **AI Agent Systems** — Tool-using agents and intelligent workflows
-- 🕌 **Islamic AI Applications** — Quran, Hadith, Fiqh and Arabic-focused AI systems
-
-I'm available for **Full-Stack Development, AI Engineering, AI Automation and freelance projects.**
-
-[![Get In Touch](https://img.shields.io/badge/GET_IN_TOUCH-usmanubaidurrehman@gmail.com-6c63ff?style=for-the-badge)](mailto:usmanubaidurrehman@gmail.com)
+### **4. AI Employee (4-Tier Digital FTE)**
+Autonomous agent managing 10+ MCP servers.
+- **Capabilities:** Email management, scheduling, code execution, web browsing
+- **Status:** Production, 8 stars on GitHub
 
 ---
 
-## 📊 GitHub Analytics
+## 🎓 Recent & Notable Projects
+
+- **Ilm Se Roshan Pakistan** — Educational AI + Roman Urdu semantic search
+- **WhatsApp Ordering Bot** — Production multi-tenant system for Karachi restaurants
+- **Spec-Driven Todo CLI** — Agent that generates code from specifications
+- **Arabic Handwriting Recognition** — Computer vision for Arabic script
+
+**Full portfolio:** [ubaid-portfolio-website.vercel.app](https://ubaid-portfolio-website.vercel.app/)
+
+---
+
+## 📖 What I Write About
+
+Building production AI systems with Islamic scholarship:
+- "Fixing Roman Urdu Search in RAG Pipelines"
+- "Why Multilingual Embeddings Beat Translation Layers"
+- "Building Hadith Chatbots with Isnad Grading"
+- "Multi-Agent Architecture for Fiqh Analysis"
+
+**Read more:** [Portfolio Blog](https://ubaid-portfolio-website.vercel.app/blog)
+
+---
+
+## 🚀 Best For
+
+- **Islamic Institutions:** Universities, research centers, Quranic platforms
+- **Islamic Fintech:** Sharia-compliant finance, digital banking, investment
+- **Education Tech:** Online Quran/Islamic learning, course platforms
+- **Islamic NGOs:** Charity platforms, Islamic research, community apps
+- **Enterprises:** AI automation, RAG systems, agent orchestration
+
+---
+
+## 📬 Get In Touch
+
+**Email:** usmanubaidurrehman@gmail.com (I reply same-day)  
+**WhatsApp:** +92 317 0203221  
+**Portfolio:** [ubaid-portfolio-website.vercel.app](https://ubaid-portfolio-website.vercel.app/)  
+**LinkedIn:** [linkedin.com/in/ubaid-ur-rahman-2bbb59245](https://www.linkedin.com/in/ubaid-ur-rahman-2bbb59245/)
+
+---
+
+## 📈 Let's Build Something
+
+If you're working on Islamic AI, fintech, education, or agentic systems:
+- Schedule a consultation
+- Discuss your requirements
+- Get a custom proposal
+
+**Available:** Remote-friendly, EU/US overlap mornings, project-based or retainer.
+
+---
 
 <div align="center">
 
-![Ubaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ub207&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true&title_color=6c63ff&icon_color=6c63ff&text_color=333333&bg_color=ffffff&border_color=e8e8e8)
+**Made with 📖 Islamic scholarship and 🤖 AI engineering**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ub207&theme=default&hide_border=false&ring=6c63ff&fire=FF6B35&currStreakLabel=6c63ff&background=ffffff&border=e8e8e8&stroke=e8e8e8&dates=555555)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ub207&layout=compact&theme=default&hide_border=false&title_color=6c63ff&text_color=333333&bg_color=ffffff&border_color=e8e8e8&langs_count=8)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Ub207&theme=flat&no-frame=false&no-bg=false&margin-w=10&column=7)](https://github.com/Ub207)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ub207&theme=github-compact&hide_border=false&area=true&custom_title=Contribution%20Activity&line=6c63ff&point=FF6B35&color=333333&bg_color=ffffff)](https://github.com/Ub207)
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ubaidurrehman-usman-2bbb59245/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanubaidurrehman@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923170203221)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logo=vercel&logoColor=white)](https://ubaid-portfolio-v2-zbbe.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ub207)
-
-<br/>
-
-> *"I don't just write code — I build systems that think, automate, and deliver results.  
-> From the wisdom of classical Islamic scholarship to the cutting edge of AI engineering."*
-
-<br/>
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:6c63ff)](https://ubaid-portfolio-v2-zbbe.vercel.app/)
+[Back to top](#ubaid-ur-rahman)
 
 </div>
