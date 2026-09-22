@@ -194,7 +194,7 @@ Building production AI systems with Islamic scholarship:
 
 **Email:** usmanubaidurrehman@gmail.com (I reply same-day)  
 **WhatsApp:** +92 317 0203221  
-**Portfolio:** [ubaid-portfolio-website.vercel.app](https://ubaid-portfolio-website.vercel.app/)  
+**Portfolio:** [ubaid-personal-portfolio.vercel.app](https://ubaid-personal-portfolio.vercel.app/)  
 **LinkedIn:** [linkedin.com/in/ubaid-ur-rahman-2bbb59245](https://www.linkedin.com/in/ubaid-ur-rahman-2bbb59245/)
 
 ---
